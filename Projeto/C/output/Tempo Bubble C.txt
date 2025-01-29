@@ -1,0 +1,38 @@
+teste 1, 100 entradas: 0.000055 segundos
+teste 2, 100 entradas: 0.000054 segundos
+teste 3, 100 entradas: 0.000074 segundos
+teste 4, 100 entradas: 0.000060 segundos
+
+teste 1, 1000 entradas: 0.004624 segundos
+teste 2, 1000 entradas: 0.003293 segundos
+teste 3, 1000 entradas: 0.003691 segundos
+teste 4, 1000 entradas: 0.003691 segundos
+
+
+teste 1, 10000 entradas: 0.217547 segundos  
+teste 2, 10000 entradas: 0.202653 segundos
+teste 3, 10000 entradas: 0.213916 segundos
+teste 4, 10000 entradas: 0.200350 segundos
+
+
+teste 1, 100000 entradas: 19.333463 segundos
+teste 2, 100000 entradas: 19.251268 segundos
+teste 3, 100000 entradas: 18.677786 segundos
+teste 4, 100000 entradas: 36.295000 segundos
+
+
+teste 2, 1000000 entradas: 2909.154348 segundos
+teste 3, 1000000 entradas: 2551.469433 segundos
+teste 4, 1000000 entradas: 2343.511562 segundos
+teste 5, 1000000 entradas: 2501.613821 segundos
+
+12th Gen Intel(R) Core(TM) i5-1235U / RAM 16BG 3200hz
+
+Tamanho da Entrada	Tempo Médio (segundos) - Bubble sort em C
+100	            0.00006075
+1000	            0.00382475
+10000	            0.2086165
+100000	            19.049092
+1000000	            2061.1498328
+
+0.00006075,   0.00382475,   0.2086165,  19.049092,2061.1498328

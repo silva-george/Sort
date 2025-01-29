@@ -1,0 +1,34 @@
+teste 1, 100 entradas: 0.000138 segundos
+teste 2, 100 entradas: 0.000214 segundos
+teste 3, 100 entradas: 0.000134 segundos
+teste 4, 100 entradas: 0.000131 segundos
+
+teste 1, 1000 entradas: 0.005938 segundos
+teste 2, 1000 entradas: 0.005654 segundos
+teste 3, 1000 entradas: 0.005265 segundos
+teste 4, 1000 entradas: 0.005537 segundos
+
+teste 1, 10000 entradas: 0.123046 segundos
+teste 2, 10000 entradas: 0.124563 segundos
+teste 3, 10000 entradas: 0.125187 segundos
+teste 4, 10000 entradas: 0.122009 segundos
+
+teste 1, 100000 entradas: 24.981426 segundos
+teste 2, 100000 entradas: 25.279313 segundos
+teste 3, 100000 entradas: 25.363291 segundos
+teste 4, 100000 entradas: 24.856267 segundos
+
+teste 1, 1000000 entradas: 2821,272675 segundos
+teste 2, 1000000 entradas: 2848.292034 segundos
+teste 3, 1000000 entradas: 2799.652369 segundos
+teste 4, 1000000 entradas: 2976.756982 segundos
+
+12th Gen Intel(R) Core(TM) i5-1235U / RAM 16BG 3200hz
+
+Tamanho da Entrada	Tempo Médio (segundos) Bubble sort em Java
+
+100			        0.00015425
+1000			    0.0055985
+10000			    0.12370125
+100000			    25.12007425
+1000000			    2861.743515

@@ -1,0 +1,33 @@
+teste 1, 100 entradas:  segundos
+teste 2, 100 entradas:  segundos
+teste 3, 100 entradas:  segundos
+teste 4, 100 entradas:  segundos
+teste 5, 100 entradas:  segundos
+
+
+teste 1, 1000 entradas:  segundos
+teste 2, 1000 entradas:  segundos
+teste 3, 1000 entradas:  segundos
+teste 4, 1000 entradas:  segundos
+teste 5, 1000 entradas:  segundos
+
+
+teste 1, 10000 entradas:  segundos
+teste 2, 10000 entradas:  segundos
+teste 3, 10000 entradas:  segundos
+teste 4, 10000 entradas:  segundos
+teste 5, 10000 entradas:  segundos
+
+
+teste 1, 100000 entradas:  segundos
+teste 2, 100000 entradas:  segundos
+teste 3, 100000 entradas:  segundos
+teste 4, 100000 entradas:  segundos
+teste 5, 100000 entradas:  segundos
+
+
+teste 1, 1000000 entradas:  segundos
+teste 2, 1000000 entradas:  segundos
+teste 3, 1000000 entradas:  segundos
+teste 4, 1000000 entradas:  segundos
+teste 5, 1000000 entradas:  segundos
