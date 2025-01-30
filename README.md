@@ -19,3 +19,5 @@ Merge Sort: Implementação do algoritmo de ordenação Merge Sort. Esse algorit
 Quick Sort: Implementação do algoritmo de ordenação Quick Sort. Esse algoritmo é um dos mais eficientes algoritmos de ordenação. Esse algorítmo também utiliza a técnica de dividir para conquistar.
 
 Link do relatório: https://docs.google.com/document/d/1U__Lvv5QMGbuHcbIAca2RRq6t0a2wiBJ/edit?usp=sharing&ouid=117334094585094441496&rtpof=true&sd=true
+
+Link Slide para apresentação: https://www.canva.com/design/DAGdrOUZHoU/JJXOKkeL8KCjWHbo5bui2w/edit
